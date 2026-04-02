@@ -2,6 +2,6 @@
 ## my first project
 ### by Majd Alnahdi
 
-live today like it's your last day
+*live today like it's your last day*
 
-tomorow's problems are for tomorrow
+**tomorow's** problems are for **tomorrow**
