@@ -8,7 +8,7 @@
 
 ***There is noting impposible if you believe in yourself***
 
-![The game elden ring] (https://images2.alphacoders.com/129/thumb-1920-1291883.png)
+![The game elden ring](https://images2.alphacoders.com/129/thumb-1920-1291883.png)
 
 
 tale a look at this website (elden beast)[ https://en.bandainamcoent.eu/elden-ring/elden-ring]
